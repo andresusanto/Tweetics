@@ -18,6 +18,14 @@ Dalam menyelesaikan permasalahan yang telah dideskripsikan di atas, kami menerap
 Pada aplikasi yang kami buat, user dapat membuat preferensi-nya sendiri sehingga diharapkan hasil yang dinginkan oleh user bisa lebih sesuai. 
 
 
+## Penggunaan
+Program ini dikembangkan menggunakan Java Servlet dan JSP dengan menggunakan IDE Eclipse. Untuk melakukan kompilasi silahkan buka project ini menggunakan IDE Eclipse dan compile kedalam bentuk `*.war`. 
+
+Web server yang didukung oleh program ini adalah `Apache Tomcat` atau `Oracle Glassfish`.
+
+## Database
+Program ini menggunakan database mysql. File dump SQL dapat anda jumpai pada file `tweetics.sql`.
+
 ## Screen Shoot
 Memulai Analisis Baru:
 
